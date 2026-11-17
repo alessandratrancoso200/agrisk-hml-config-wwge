@@ -1,2 +1,3 @@
-# agrisk-hml-config-wwge
-Config de homologacao AgRisk (agrisk.app)
+# agrisk-hml-config
+
+Configuracao de homologacao da integracao AgRisk (agrisk.app).

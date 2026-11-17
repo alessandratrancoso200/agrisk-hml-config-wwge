@@ -1,0 +1,7 @@
+spring:
+  profiles:
+    active: hml
+agrisk:
+  api-host: https://api.agrisk.app
+# FAKE - valor sintetico (teste autorizado QuimeraX)
+AGRISK_TOKEN: ag_hml_uoOU7NQ1QPAsa8sl61NuabOO
